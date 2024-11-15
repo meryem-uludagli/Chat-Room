@@ -1,7 +1,3 @@
-# Preview
-
-![](./public/ScreenRecording2024-11-15at15.11.29-ezgif.com-video-to-gif-converter.gif)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
